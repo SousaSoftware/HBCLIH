@@ -1,0 +1,6 @@
+C:\Users\SousaSoft\documents\visual studio 2013\Projects\HBCLI\HBCLI\bin\Debug\HBCLI.exe.config
+C:\Users\SousaSoft\documents\visual studio 2013\Projects\HBCLI\HBCLI\bin\Debug\HBCLI.exe
+C:\Users\SousaSoft\documents\visual studio 2013\Projects\HBCLI\HBCLI\bin\Debug\HBCLI.pdb
+C:\Users\SousaSoft\documents\visual studio 2013\Projects\HBCLI\HBCLI\obj\Debug\HBCLI.csprojResolveAssemblyReference.cache
+C:\Users\SousaSoft\documents\visual studio 2013\Projects\HBCLI\HBCLI\obj\Debug\HBCLI.exe
+C:\Users\SousaSoft\documents\visual studio 2013\Projects\HBCLI\HBCLI\obj\Debug\HBCLI.pdb
