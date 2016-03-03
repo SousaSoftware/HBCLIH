@@ -35,4 +35,6 @@ Since Handbrake CLI is a cmd tool it cant check files with spaces or dir with sp
 
 This isnt the proper way of doing the things but works for my needs
 
+Download Handbrake CLI -> https://handbrake.fr/downloads2.php
+
 Enjoy
